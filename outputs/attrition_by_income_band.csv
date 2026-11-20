@@ -1,0 +1,4 @@
+income_band,total_employees,employees_left,attrition_rate_pct
+High,435,47,10.8
+Low,395,113,28.61
+Medium,640,77,12.03
